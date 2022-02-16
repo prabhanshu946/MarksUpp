@@ -1,4 +1,4 @@
-package com.demo.marksupp.view
+package com.demo.marksupp.repository
 
 import com.demo.marksupp.api.ApiHelper
 import com.demo.marksupp.api.response.QuestionResponse

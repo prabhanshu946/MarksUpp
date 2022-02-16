@@ -5,8 +5,6 @@ import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.ForeignKey
 import androidx.room.PrimaryKey
-import com.demo.marksupp.database.entity.Question
-import com.demo.marksupp.database.entity.QuestionOwner
 
 @Keep
 @Entity(tableName = "Tags",

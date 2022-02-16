@@ -1,4 +1,4 @@
-package com.demo.marksupp.view
+package com.demo.marksupp.shared
 
 import android.app.Application
 import androidx.hilt.work.HiltWorkerFactory

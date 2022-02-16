@@ -1,4 +1,4 @@
-package com.demo.marksupp.view
+package com.demo.marksupp.shared
 
 import androidx.recyclerview.widget.DiffUtil
 import com.demo.marksupp.database.QuestionRelation
