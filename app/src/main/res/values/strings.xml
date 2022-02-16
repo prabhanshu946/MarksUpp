@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MarksUpp</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="follow">Follow</string>
+    <string name="_39_followers">39 Followers</string>
+    <string name="prabhanshu_chaudhary">Prabhanshu Chaudhary</string>
+    <string name="course">Course</string>
+    <string name="_2_3m_members">2.3M members</string>
+    <string name="groups">Groups</string>
+    <string name="post">Post</string>
+    <string name="notification">Notification</string>
+    <string name="me">Me</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionCourse"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="@string/course" />
+
+    <item
+        android:id="@+id/actionPost"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/post" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/actionNotification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="@string/notification" />
+
+    <item
+        android:id="@+id/actionProfile"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        android:title="@string/me" />
+
+</menu>
